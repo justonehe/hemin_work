@@ -10,5 +10,5 @@ learnner
 
 
 
-Blog [notion.orangesai.com](https://hemin.live)
+Blog [hemin.live](https://hemin.live)
 
